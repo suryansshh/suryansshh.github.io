@@ -1,0 +1,32 @@
+
+
+body {
+  background-color: #FFF5E4;
+}
+hr{ 
+ border-style: none  ;
+ border-top-style: dotted;
+ border-color: black;
+ border-width: 5px;
+ 
+ width: 70%;
+  
+  
+
+}
+h3{
+  color:#645CAA;
+  text-decoration: underline;
+  
+}
+h1{ 
+  color:  #645CAA;
+  text-decoration: bold;
+}
+
+.dog{
+  background-color: green;
+}
+.cat{
+  background-color: red;
+}
